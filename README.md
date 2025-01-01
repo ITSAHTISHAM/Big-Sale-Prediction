@@ -6,6 +6,13 @@ The primary goal of this project is to develop a robust and accurate predictive 
 ## Project Description
 Forecasting sales trends is crucial for businesses to plan effectively, allocate resources, and maximize profitability. This project leverages machine learning techniques, particularly the Random Forest Regressor algorithm, to build a model capable of delivering precise sales predictions.
 
+## Project Visuals
+
+![Screenshot (12)](https://github.com/user-attachments/assets/933e91c0-f5ba-4695-9aef-031100006243)
+![Screenshot (13)](https://github.com/user-attachments/assets/1858feeb-7823-4847-b0f9-c09c9fdc0c54)
+![Screenshot (14)](https://github.com/user-attachments/assets/ca18c1bf-f666-40f8-a1c1-178daff4b0eb)
+![Screenshot (15)](https://github.com/user-attachments/assets/a387063f-98b2-49c9-81c2-5000f4b611dd)
+
 ### Key Features
 - Utilizes historical sales data and market indicators for predictions.
 - Employs the Random Forest Regressor algorithm for improved accuracy and reliability.
